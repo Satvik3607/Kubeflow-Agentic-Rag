@@ -1,0 +1,7 @@
+Kubeflow Pipelines is a platform for building and deploying
+portable and scalable machine learning workflows.
+
+A pipeline consists of multiple components connected
+in a directed acyclic graph (DAG).
+
+Each component performs a step in the machine learning workflow.

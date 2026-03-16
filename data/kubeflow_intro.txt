@@ -1,0 +1,7 @@
+Kubeflow is an open source machine learning platform designed
+to run machine learning workflows on Kubernetes.
+
+It provides tools for training, serving, and deploying ML models.
+
+Kubeflow helps data scientists and engineers build
+portable and scalable machine learning systems.

@@ -1,0 +1,6 @@
+KServe is a Kubernetes-based model serving platform.
+
+It enables scalable serving of machine learning models
+with features such as autoscaling and serverless inference.
+
+KServe supports TensorFlow, PyTorch, and custom models.
